@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="3" selection-start-column="23" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -82,9 +82,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="238" />
-    <option name="y" value="12" />
+    <option name="y" value="372" />
     <option name="width" value="1353" />
-    <option name="height" value="1056" />
+    <option name="height" value="675" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,11 +98,6 @@
             <path>
               <item name="JeMePresente" type="b2602c69:ProjectViewProjectNode" />
               <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JeMePresente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,18 +147,18 @@
       <workItem from="1550191686005" duration="83000" />
       <workItem from="1550192885463" duration="4925000" />
       <workItem from="1550792114636" duration="1822000" />
-      <workItem from="1550800908158" duration="653000" />
+      <workItem from="1550800908158" duration="686000" />
+      <workItem from="1550802226870" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7483000" />
+    <option name="totallyTimeSpent" value="8113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="238" y="12" width="1353" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="238" y="372" width="1353" height="675" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20572312" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2088167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="3" selection-start-column="23" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
