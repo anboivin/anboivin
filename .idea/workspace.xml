@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e1da08-cf8a-4e40-8448-66f0eaf92ea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresenteV2/OnePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/JeMePresente.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/etudes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/Cegep.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/KJTb2QRO.img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/MaPhoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/OREO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/mes2filles.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/mesReves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/url.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/img/url.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/loisirs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/reves.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresente/sports.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/JeMePresenteV2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/etudes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/Cegep.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/KJTb2QRO.img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/MaPhoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/OREO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/mes2filles.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/mesReves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/url.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/img/url.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/loisirs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/reves.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegrationWeb1/JeMePresenteV2/sports.html" beforeDir="false" />
-    </list>
+    <list default="true" id="84e1da08-cf8a-4e40-8448-66f0eaf92ea5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,63 +10,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/loisirs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/sports.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="34" column="47" lean-forward="true" selection-start-line="9" selection-end-line="34" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/OnePage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="117" column="15" lean-forward="true" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/reves.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/etudes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteV2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="20" selection-end-column="58" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -138,10 +43,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="691" />
-    <option name="y" value="136" />
+    <option name="x" value="801" />
+    <option name="y" value="240" />
     <option name="width" value="1082" />
-    <option name="height" value="809" />
+    <option name="height" value="782" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -158,7 +63,7 @@
             <path>
               <item name="IntegrationWeb1" type="b2602c69:ProjectViewProjectNode" />
               <item name="anboivin" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresenteV2" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,15 +108,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551397148913</updated>
-      <workItem from="1551397150153" duration="4634000" />
+      <workItem from="1551397150153" duration="5679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4634000" />
+    <option name="totallyTimeSpent" value="5679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="691" y="136" width="1082" height="809" extended-state="0" />
+    <frame x="801" y="240" width="1082" height="782" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24951077" />
@@ -245,16 +150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresenteV2/loisirs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresenteV2/reves.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -269,6 +164,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresenteV2/OnePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresenteV2/sports.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -276,12 +178,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresenteV2/OnePage.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresenteV2/loisirs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="117" column="15" lean-forward="true" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
