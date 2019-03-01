@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67896819-d3ea-4f22-9e72-63a2cbcd1230" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JeMePresenteV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Cours_01/JeMePresente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cours_01/JeMePresente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/JeMePresente.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/etudes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/Cegep.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/KJTb2QRO.img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/MaPhoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/OREO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/mes2filles.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/mesReves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/url.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/img/url.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/loisirs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/reves.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JeMePresente/sports.html" beforeDir="false" />
-    </list>
+    <list default="true" id="67896819-d3ea-4f22-9e72-63a2cbcd1230" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/etudes.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,7 +73,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -142,16 +115,17 @@
       <workItem from="1550802226870" duration="597000" />
       <workItem from="1551319781479" duration="355000" />
       <workItem from="1551320181781" duration="371000" />
+      <workItem from="1551397047632" duration="100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8839000" />
+    <option name="totallyTimeSpent" value="8939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="238" y="103" width="1082" height="809" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21722114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22113504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
