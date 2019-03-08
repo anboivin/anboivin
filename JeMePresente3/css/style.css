@@ -1,0 +1,75 @@
+/*  Style.css
+    Programmé par Annie Boivin
+    Le 7 mars 2019
+ */
+
+body
+{
+    width: 900px;
+    background: url(../img/fond-clair1.jpg) no-repeat center;
+    background-color: cornsilk;
+    margin: auto;
+}
+
+h1
+{
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 24px;
+}
+
+h1, h2
+{
+    color: crimson;
+    text-align: center
+}
+
+p
+{
+    font-size: 14px;
+    text-align: justify;
+}
+
+a :link
+{
+    color: cornflowerblue;
+}
+
+a :visited
+{
+    color: blue;
+}
+
+a :hover
+{
+    text-decoration: underline;
+}
+
+img
+{
+    width: 300px;
+    border-radius: 15px;
+
+}
+
+img:hover
+{
+    box-shadow: 0 0 5px 5px rgba(0, 140, 186, 0.5);
+}
+
+
+table, th, td
+{
+    border: 1px solid black;
+    color: crimson;
+    font-size: 16px;
+}
+
+ul
+{
+    font-size: 16px;
+    color: goldenrod;
+}

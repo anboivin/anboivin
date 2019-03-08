@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e1da08-cf8a-4e40-8448-66f0eaf92ea5" name="Default Changelist" comment="" />
+    <list default="true" id="84e1da08-cf8a-4e40-8448-66f0eaf92ea5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/OnePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/4generations.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/Cegep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/KJTb2QRO.img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/MaPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/OREO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/mes2filles.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/mesReves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/url.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente3/img/url.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +22,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeMePresente3/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/JeMePresente3/OnePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -21,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,49 +66,80 @@
         <option value="$PROJECT_DIR$/JeMePresenteV2/sports.html" />
         <option value="$PROJECT_DIR$/JeMePresenteV2/etudes.html" />
         <option value="$PROJECT_DIR$/JeMePresenteV2/OnePage.html" />
+        <option value="$PROJECT_DIR$/JeMePresente3/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresente3/OnePage.html" />
+        <option value="$PROJECT_DIR$/JeMePresente3/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="801" />
-    <option name="y" value="240" />
+    <option name="x" value="843" />
     <option name="width" value="1082" />
-    <option name="height" value="782" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IntegrationWeb1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
               <item name="anboivin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IntegrationWeb1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
               <item name="anboivin" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresenteV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anboivin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anboivin" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresenteV2" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\annbo\Dropbox\www\anboivin\JeMePresente3\img" />
+      <recent name="C:\Users\annbo\Dropbox\www\anboivin\JeMePresente3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annbo\Dropbox\www\anboivin\JeMePresente3\img" />
       <recent name="C:\Users\annbo\Dropbox\www\anboivin\IntegrationWeb1" />
       <recent name="C:\Users\annbo\Dropbox\www\anboivin" />
     </key>
@@ -109,17 +167,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551397148913</updated>
       <workItem from="1551397150153" duration="5679000" />
+      <workItem from="1552002039166" duration="8979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5679000" />
+    <option name="totallyTimeSpent" value="14658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="801" y="240" width="1082" height="782" extended-state="0" />
+    <frame x="843" y="0" width="1082" height="1047" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24951077" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25440314" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -187,6 +246,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/etudes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/loisirs.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/img/mesReves.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/img/fond.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/img/4generations.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/OnePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
